@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 How to reach me: 
-QQ邮箱：2261077841@qq.com
-Gmail：z2261077841@gmail.com
+/n QQ邮箱：2261077841@qq.com
+/n Gmail：z2261077841@gmail.com
