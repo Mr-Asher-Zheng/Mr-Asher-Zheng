@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: 2261077841@qq.com
+📫 How to reach me: 
+QQ邮箱：2261077841@qq.com
+Gmail：z2261077841@gmail.com
