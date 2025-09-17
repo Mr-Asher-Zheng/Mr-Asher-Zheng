@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Gmail：z2261077841@gmail.com
 
 💻 目前正在的开发项目：
-- 基于扩散模型的敦煌壁画修复[Dunhuang_Mural_Restoration]
+- 基于扩散模型的敦煌壁画修复（Dunhuang_Mural_Restoration）
