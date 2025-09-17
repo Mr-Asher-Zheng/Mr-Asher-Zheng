@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 📫 How to reach me: 
 - QQ邮箱：2261077841@qq.com
 - Gmail：z2261077841@gmail.com
+
+💻 目前的开发项目：
+- 基于扩散模型的敦煌壁画修复
