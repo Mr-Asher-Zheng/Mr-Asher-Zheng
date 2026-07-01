@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 正在积极找工作中，有意向可直接联系
 📫 How to reach me: 
 - QQ邮箱：2261077841@qq.com
 - Gmail：z2261077841@gmail.com
