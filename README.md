@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Gmail：z2261077841@gmail.com
 
 📚 目前正在的学习：
-DataWhale_Hello-Agents 《从零开始构建智能体》
+- DataWhale_Hello-Agents 《从零开始构建智能体》
 
 💻 目前正在的开发项目：
 - DongChongAgent 个人Agent助手
