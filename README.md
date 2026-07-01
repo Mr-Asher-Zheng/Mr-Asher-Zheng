@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 - QQ邮箱：2261077841@qq.com
 - Gmail：z2261077841@gmail.com
 
+📚 目前正在的学习：
+DataWhale_Hello-Agents 《从零开始构建智能体》
+
 💻 目前正在的开发项目：
-- loading...
+- DongChongAgent 个人Agent助手
